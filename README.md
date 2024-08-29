@@ -13,7 +13,7 @@ My name is **Nikita Andreev**. I am a 2nd year university student studying Compu
 ### 🔖 About me:
 - Location: **Latvia, Riga**
 - Languages: **Russian (native), English and Latvian.**
-- Specializations: **Front-End Development, Application Development, Web Design.**
+- Specializations: **Front-End Development, Web Design.**
 - Interests: **Photo & Video editing, design, self-education.**
 
 ---
