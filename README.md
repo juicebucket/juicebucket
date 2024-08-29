@@ -8,7 +8,7 @@
 
 </div>
 
-My name is **Nikita Andreev**. I am a 2nd year university student studying Computer Science in Latvia, Riga. I work and passionate about front-end development, application development and web design.
+My name is **Nikita Andreev**. I am a 2nd year university student studying Computer Science in Latvia, Riga. I work and passionate about front-end development and web design.
 
 ### 🔖 About me:
 - Location: **Latvia, Riga**
