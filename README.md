@@ -19,7 +19,7 @@ My name is **Nikita Andreev**. I am a 2nd year university student studying Compu
 ---
 
 ### 🛠️ Languages and tools:
-The main languages and tools I use regularly and continue to learn.
+Technologies and programming languages I have worked with or continue to work with:
 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
