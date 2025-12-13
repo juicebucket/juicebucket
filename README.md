@@ -5,9 +5,6 @@
 <strong>📩 Contacts: <strong>
 
 juicebct@gmail.com /
-<a href="https://juicebct.github.io/juicebct/">
-Link Hub
-</a> /
 <a href="https://www.linkedin.com/in/nikita-andreev-78b694314/">
     LinkedIn
 </a>
